@@ -30,7 +30,7 @@ to compare their performance in predicting whether the next day's closing price 
 
 ## What's Included
 - dropout_demo.ipynb  main notebook (comparison experiment)
-- dropout_tutorial.pdf  tutorial with explanations and references
+- Understanding Dropout in Neural Networks.docs  tutorial with explanations and references
 - LICENSE  project license (MIT)
 - README.md  this file
 
